@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatih Çağdaş
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science, Machine Learning and Deep Learning
 - 🌱 I’m currently learning C#, ASP.NET Core and Python
 - 📫 How to reach me https://www.linkedin.com/in/fatih-%C3%A7a%C4%9Fda%C5%9F-ab0429254/
 
